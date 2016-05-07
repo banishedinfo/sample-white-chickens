@@ -1,5 +1,5 @@
 #Sample - White chickens
 
-[i]Sample mod[/i]
+_Sample mod_
 
-[quote=Sample description]This mod adds a white chicken (leghorns) that can be bought at the trading post and raised in pastures.[/quote]
+> This mod adds a white chicken (leghorns) that can be bought at the trading post and raised in pastures.
